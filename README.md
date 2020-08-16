@@ -14,7 +14,8 @@
 
 **Regression:**
   - Multiple Linear Regression
-  
+  - Lasso (L1 Regularization)
+  - Ridge (L2 Regularization)
 
 
 
