@@ -17,6 +17,7 @@
   - Lasso (L1 Regularization)
   - Ridge (L2 Regularization)
 
-
+**Clustering**
+  - K-Means
 
 Do :star: the repository, if it helped you in anyway.
