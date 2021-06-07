@@ -32,7 +32,7 @@ To recommend similar movies in the data based on user selected movie from datase
 ### **Recommendation System**
 - Creating a function '*similar_to*' for fetching likable titles to user-specified movies. 
 - Keyword search privilege for a user to select a specific movie title from the dataset.
-<img title="Search Movie" src="Images/Movie_Search.JPG" />
+<img title="Search Movie" src="Images/Search_Movie.JPG" />
 
 - Suggesting movies along with match percentage and number of ratings similar to the user-selected title. 
 <img title="Similar Movies" src="Images/Similar_to_Movie.JPG" />
