@@ -63,7 +63,9 @@
   - Building a complete model with best parameters and best estimator obtained from GridSearchCV on whole dataset (X and y) without splitting.
   - Developing a function '*classify*', to classify any user provided message in to spam or not spam.
   - Previlage for user to input any text message and Check model predictions on SMS.
-
+  &nbsp;
+  
+  <img title="user_sms_prediction" src="Images/user_sms_prediction.PNG" />
 ---
 
 Solution by     : **Aditya Karanth**.
