@@ -65,7 +65,7 @@
   - Previlage for user to input any text message and Check model predictions on SMS.
   &nbsp;
   
-  <img title="user_sms_prediction" src="Images/user_sms_prediction.PNG" />
+  <img title="user_sms_prediction" src="Images/user_sms_prediction.JPG" />
 ---
 
 Solution by     : **Aditya Karanth**.
