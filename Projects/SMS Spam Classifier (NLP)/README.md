@@ -2,7 +2,7 @@
 
 
 **<h2>Problem Statement: </h2>** 
->  To classify a new text message provided by a user is **spam** or **not spam**.
+>  To classify a new text message provided by a user as **spam** or **not spam**.
 
 </br>
 
@@ -32,7 +32,7 @@
 - Data is split in to *train* and *test* messages .
 - Text Messages are first converted in to Bag-of-words representation using *CountVectorizer* and *TfidfTransformer*, then to a Model.
 - **Pipeline -** 
-  - Deploying a Pileline, constructed using below three steps.
+  - Deploying a Pipeline, constructed using below three steps.
   </br>
   
   1. **Count Vectorizer -**
